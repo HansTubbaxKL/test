@@ -1,2 +1,0 @@
-#ikke
-##ja ja
