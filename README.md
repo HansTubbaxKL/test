@@ -1,5 +1,5 @@
 # DSH Customer Documentation - ToC
-## Tenant
+## Tenant --
 ###  1. Platform overview [Thomas]
   1. [Tenant/multi tenant](Multi-Tenant)
   2. [Docker container](Docker-Container)
@@ -17,7 +17,7 @@
      1. [Topics (mqtt specific)](Topics-MQTT) Mapping Kafka - MQTT
      2. [retained messages](retained-messages) - retained messages in MQTT, constrain yourself, how to delete - OK 80%
      3. How Key envelope ID are filled in for incomming messages
- 
+
 ###  4. Deploying a container/nicodemus (overview) [Hans]
   1. [Tenant environment (netwerk setup etc)](Tenant-environment) [Bram] Tenant networking constraints - 20%
   2. [Containerization](Containerization)  [Bram] requirements for a container to run on DSH - 40%
